@@ -8,11 +8,11 @@
   <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
 </a>
 
-<a href="https://github.com/youngsecurity">
+<a href="https://github.com/yousecjoe">
     <img align="center" width="49%" src="./metrics.plugin.followup.indepth.svg" />
 </a>
 
-<a href="https://github.com/youngsecurity">
+<a href="https://github.com/yousecjoe">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 
