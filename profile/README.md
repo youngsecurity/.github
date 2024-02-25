@@ -4,7 +4,7 @@
   <img align="center" width="49%" src="./github-metrics.svg" alt="Metrics">
 </a>
 
-<a href="https://github.com/youngsecurity">
+<a href="https://github.com/yousecjoe">
   <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
 </a>
 
