@@ -29,9 +29,11 @@ jobs:
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-          
+
   iso_calender:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Full-year calendar
         uses: yousecjoe/metrics@master
@@ -40,22 +42,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year    
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_isocalendar_duration: full-year
 
           # Options
           user: yousecjoe
           template: classic          
-          config_timezone: ${{ secrets.USER_TIMEZONE }}          
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
 
   issue_pr_lang:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Indepth analysis
         uses: yousecjoe/metrics@master
-        with:
-          use_prebuilt_image: yes
+        with:          
           filename: metrics.plugin.followup.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -65,6 +66,8 @@ jobs:
 
   habits:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: yousecjoe/metrics@master
         with:
@@ -84,6 +87,8 @@ jobs:
 
   achievements:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: yousecjoe/metrics@master
         with:
