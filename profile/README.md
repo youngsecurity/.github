@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/youngsecurity">
-  <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />  
+  <img align="center" width="49%" src="../metrics.plugin.isocalendar.fullyear.svg" />  
 </a>
 
 <a href="https://github.com/youngsecurity">
