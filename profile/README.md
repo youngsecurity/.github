@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a href="https://github.com/youngsecurity">
-  <img align="center" width="49%" src="../github-metrics.svg" alt="Metrics">
+  <img align="center" width="49%" src="../header.svg" alt="Metrics">
 </a>
 
 <a href="https://github.com/youngsecurity">
