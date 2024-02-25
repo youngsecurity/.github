@@ -9,15 +9,15 @@
 </a>
 
 <a href="https://github.com/youngsecurity">
-    <img align="center" width="49%" src="./metrics.plugin.followup.indepth.svg" />
+    <img align="center" width="49%" src="../metrics.plugin.followup.indepth.svg" />
 </a>
 
 <a href="https://github.com/youngsecurity">
-  <img align="center" width="49%" src="./github-habits.svg" />
+  <img align="center" width="49%" src="../github-habits.svg" />
 </a>
 
 <a href="https://github.com/youngsecurity">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="../achievements.svg" />
 </a>
 
 <a href="https://github.com/yousecjoe">
