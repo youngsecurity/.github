@@ -66,36 +66,15 @@
 <hr>
 <h2><span style="color:green">AI & Bots</span></h2>
 
-<a href="https://github.com/youngsecurity/ai-ollama">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-ollama&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+<a href="https://github.com/youngsecurity/cherry2k">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=cherry2k&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
-<a href="https://github.com/youngsecurity/ai-ollama-webui">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-ollama-webui&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+<a href="https://github.com/youngsecurity/glaucus">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=glaucus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
-<a href="https://github.com/youngsecurity/ai-privateztgpt">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-privateztgpt&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
-</a>
-
-<a href="https://github.com/youngsecurity/ai-open-interpreter">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-open-interpreter&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
-</a>
-
-<a href="https://github.com/youngsecurity/ai-discord-bot">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-discord-bot&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
-</a>
-
-<a href="https://github.com/redlinejoes/cherry2k">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=cherry2k&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
-</a>
-
-<hr>
 <h2><span style="color:green">Cybersecurity</span></h2>
-
-<a href="https://github.com/redlinejoes/glaucus">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=glaucus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
-</a>
 
 <a href="https://github.com/redlinejoes/lions-mane-jellyfish">
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=lions-mane-jellyfish&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
