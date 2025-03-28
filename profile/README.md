@@ -1,6 +1,6 @@
 # Young Security Inc
 
-## <h2><span style="color:green">Mission</span></h2>
+## <span style="color:green">Mission</span>
 
 To provide resilient IT, cybersecurity and infrastructure services.
 
