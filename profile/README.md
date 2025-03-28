@@ -28,7 +28,7 @@ To provide resilient IT, cybersecurity and infrastructure services.
   - Young Security are Co-founders of the [Agentics Foundation](https://agentics.org)
 - Zero Trust Guidance
   - Microsoft Azure Copilot Agent
-    - [Zee Tee](./zeetee.md)
+    - [Zee Tee](https://github.com/youngsecurity/www/blob/main/zeetee.md)
   - OpenAI GPT Builder
     - [Zee Tee GPT](https://chatgpt.com/g/g-rYUbw9W5H-zee-tee-gpt)
     - [Jack Kinderbot](https://chatgpt.com/g/g-M6RteJ4ug-jack-kinderbot-a-zero-trust-strategy-assistant)
