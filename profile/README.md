@@ -4,7 +4,10 @@
   <img align="center" width="49%" src="./header.svg" />
 </a>
 
-<br/>
+<a href="https://github.com/yousecjoe">
+  <img align="center" width="49%" src="./github-metrics.svg" alt="Metrics">
+</a>
+
 
 <a href="https://github.com/youngsecurity">
   <img align="center" width="49%" src="./repositories.svg" />
