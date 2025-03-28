@@ -1,5 +1,4 @@
-# Hi there 👋
-
+<hr>
 
 <h2><span style="color:green">DevSecOps Internal Developer Platforms</span></h2>
 
@@ -11,8 +10,8 @@
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=containment-field&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
-<a href="https://github.com/youngsecurity/underground-nexus">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=underground-nexus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+<a href="https://github.com/redlinejoes/underground-nexus">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=underground-nexus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
 <a href="https://github.com/youngsecurity/defense-unicorns-zarf">
@@ -22,8 +21,8 @@
 <hr>
 <h2><span style="color:green">Stats & Metrics</span></h2>
 
-<a href="https://github.com/youngsecurity/www">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=www&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+<a href="https://github.com/redlinejoes/www">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=www&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
 <a href="https://github.com/redlinejoes/upptime">
@@ -41,15 +40,40 @@
 <hr>
 <h2><span style="color:green">AI & Bots</span></h2>
 
-<a href="https://github.com/youngsecurity/cherry2k">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=cherry2k&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+<a href="https://github.com/youngsecurity/pentest-agent-system">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=pentest-agent-system&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
-<a href="https://github.com/youngsecurity/glaucus">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=glaucus&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+<a href="https://github.com/youngsecurity/ai-ollama">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-ollama&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
 </a>
 
+<a href="https://github.com/youngsecurity/ai-ollama-webui">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-ollama-webui&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/youngsecurity/ai-privateztgpt">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-privateztgpt&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/youngsecurity/ai-open-interpreter">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-open-interpreter&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/youngsecurity/ai-discord-bot">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=ai-discord-bot&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/redlinejoes/cherry2k">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=cherry2k&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
+
+<hr>
 <h2><span style="color:green">Cybersecurity</span></h2>
+
+<a href="https://github.com/youngsecurity/pentest-agent-system">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=youngsecurity&repo=pentest-agent-system&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
 
 <a href="https://github.com/redlinejoes/lions-mane-jellyfish">
     <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=redlinejoes&repo=lions-mane-jellyfish&show_owner=true&theme=merko&bg_color=00000000&hide_border=true" />
