@@ -1,30 +1,42 @@
 # Hi there 👋
 
 <a href="https://github.com/youngsecurity">
-  <img align="center" width="49%" src="https://github.com/youngsecurity/.github/blob/main/header.svg" alt="Metrics">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+
+<br/>
+
+<a href="https://github.com/youngsecurity">
+  <img align="center" width="49%" src="./repositories.svg" />
 </a>
 
 <a href="https://github.com/youngsecurity">
-  <img align="center" width="49%" src="https://github.com/youngsecurity/.github/blob/main/metrics.plugin.isocalendar.fullyear.svg" />  
+  <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
 <a href="https://github.com/youngsecurity">
-    <img align="center" width="49%" src="https://github.com/youngsecurity/.github/blob/main/metrics.plugin.followup.indepth.svg" />
+  <img align="center" width="49%" src="./metrics.plugin.isocalendar.fullyear.svg" />
 </a>
 
 <a href="https://github.com/youngsecurity">
-  <img align="center" width="49%" src="https://github.com/youngsecurity/.github/blob/main/github-habits.svg" />
+    <img align="center" width="49%" src="./metrics.plugin.followup.indepth.svg" />
 </a>
 
 <a href="https://github.com/youngsecurity">
-    <img align="center" width="49%" src="https://github.com/youngsecurity/.github/blob/main/achievements.svg" />
+  <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 
-<a href="https://github.com/yousecjoe">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=yousecjoe&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&number_format=long&ring_color=#00FF00" />
+<a href="https://github.com/youngsecurity">
+    <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
-<hr>
+<a href="https://github.com/youngsecurity">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=youngsecurity&show_icons=true&theme=merko&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&number_format=long&ring_color=#00FF00" />
+</a>
+
+<a href="https://github.com/youngsecurity">
+    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsecurity&langs_count=8&layout=compact&theme=merko&bg_color=00000000&hide_border=true" />
+</a>
 
 <h2><span style="color:green">DevSecOps Internal Developer Platforms</span></h2>
 
